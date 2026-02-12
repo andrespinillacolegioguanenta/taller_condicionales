@@ -1,2 +1,4 @@
 # taller_condicionales
-ejercicios de numero faciles
+ejercicios de número faciles
+
+
