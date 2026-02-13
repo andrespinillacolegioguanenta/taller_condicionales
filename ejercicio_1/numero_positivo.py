@@ -7,10 +7,11 @@ print("--------------------------------------")
 x = int(input("digite el número: "))
 
 # Procesing
-if (x>0):
+if (x>=0):
     rta= "POSITIVO"
 else:
-    rta= "NEGATIVO O 0"
+    rta= "0"
+    rta= "NEGATIVO"
 
 # Output
 print("--------------------------------------")
